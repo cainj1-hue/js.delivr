@@ -1,0 +1,2 @@
+# js.delivr
+yes
